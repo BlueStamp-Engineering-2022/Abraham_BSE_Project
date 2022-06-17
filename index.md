@@ -28,4 +28,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
   
 
 My starter project was a TV Be Gone remote that could turn off any TV with a click of the button. I learned how to solder for my tv be gone project and used the soldering to install different components to the TV B Gone board, including the remote, the LED light to signal that it is on, the microcontroller which runs the code, 4 different transisters to control how much energy is transfered to the 4 IR lights at the end of the remote, which is used to fire off different frequencies searching for the TV's frequency to turn it off. I had difficulties figuring out the soldering and getting the battery pack to stay together with the remote because it kept falling off, but overall it was a fun project to make.
-[![Starter Project]()](https://www.youtube.com/embed/gZYB2pSHvzc) {:target="_blank" rel="noopener"}
+[![Starter Project](https://i.ytimg.com/vi/gZYB2pSHvzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1KNmjoSoOPbNDVEjB_l4OK0ZJoA)](https://www.youtube.com/embed/gZYB2pSHvzc) {:target="_blank" rel="noopener"}
