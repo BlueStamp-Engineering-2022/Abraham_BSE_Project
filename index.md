@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Abraham | The King's Academy | Mechanininicacal Engineering | Incoming Senior
+| Abraham | The King's Academy | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUb1jyqRAElcJcC_Wy-kWVgkjgTYgHe-bnt-gVMSySu5NsYlixihhJExQI0p_AGVnnLxv8PZ5KCVn55WPvXuC9BRDxMuCh3naMfl-M25tWrMRvUa2IiN1J1Iw8agl81drqqkLq_pcPHhxBR-n4JfNdA=w1644-h1642-no?authuser=0)
   
