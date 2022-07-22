@@ -8,16 +8,16 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUb1jyqRAElcJcC_Wy-kWVgkjgTYgHe-bnt-gVMSySu5NsYlixihhJExQI0p_AGVnnLxv8PZ5KCVn55WPvXuC9BRDxMuCh3naMfl-M25tWrMRvUa2IiN1J1Iw8agl81drqqkLq_pcPHhxBR-n4JfNdA=w1644-h1642-no?authuser=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My second milestone for my Fingerprint ID Safe with Keypad was completeing the entire project. This was a long and tiring proccess because I had to put the entire project into the lid of my project, tape it all down and make sure it works, and move on from my the breadboard, and solder everything onto a perf board. It was really frustrating because I was really bad at planning things, so I would solder things onto the perf board, then realize that I need it somewhere else or I needed to do something first. So often I would velcro my perf board and my arduino onto the lid of my box then realize I have to solder something else and I'd have to undo the velco which was a pain to do. Also the wires would get tangled a bunch of times  because it was really messy and there were a lot of wires. Then, when soldering some joints together my soldering wasnt that good so that the soldering would fall offg eventually when i was doing other things. This happened to each joint about 3 times each so resoldering each thing was really annoying because without each joint it wouldnt work. So, besides needing to resolder a bunch of stuff that fell off, I also 
+
 
 [![Final Milestone]([![Abraham Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658507451/video_to_markdown/images/youtube--Pzz4Elihr-Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Pzz4Elihr-Q&ab_channel=BlueStampEng "Abraham Milestone 2")
 
-# Second Milestone
-
-My second milestone for my Fingerprint ID Safe with Keypad was completeing the entire project. This was a long and tiring proccess because I had to put the entire project into the lid of my project, tape it all down and make sure it works, and move on from my the breadboard, and solder everything onto a perf board. It was really frustrating because I was really bad at planning things, so I would solder things onto the perf board, then realize that I need it somewhere else or I needed to do something first. So often I would velcro my perf board and my arduino onto the lid of my box then realize I have to solder something else and I'd have to undo the velco which was a pain to do. Also the wires would get tangled a bunch of times  because it was really messy and there were a lot of wires. Then, when soldering some joints together my soldering wasnt that good so that the soldering would fall offg eventually when i was doing other things. This happened to each joint about 3 times each so resoldering each thing was really annoying because without each joint it wouldnt work. So, besides 
 
 
-[![Third Milestone](
+
+
+
 # First Milestone
   
 
